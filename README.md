@@ -14,6 +14,6 @@ componentizzazione React (utilizzo di componenti),
 gestione dello stato dell’applicazione,
 uso di servizi per simulare API REST,
 implementazione di routing dinamico,
-attenzione alla user experience e al mobile first design.
+attenzione alla user experience.
 
 Questo progetto non ha finalità commerciali, ma è stato pensato come esercizio pratico completo, ispirato a una piattaforma reale di grande complessità.
